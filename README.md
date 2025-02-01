@@ -5,4 +5,5 @@ I added some of the data pulled into the project as an example.
 You can browse the txt files.
 
 useful for sample Beatifulsoup: https://www.youtube.com/watch?v=T4EXSBMicBY&list=PLz2cqWVPJE63a_vGcA2whdCqvM2njdqvu
+
 useful for sample Telegram Bot: https://www.youtube.com/watch?v=-owpeU_BAco&t=277s
