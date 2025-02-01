@@ -10,4 +10,3 @@ useful for sample Telegram Bot: https://www.youtube.com/watch?v=-owpeU_BAco&t=27
 
 
 ![2](https://github.com/user-attachments/assets/0eeeebf6-6904-40e2-8667-fbd01b5055e1)
-
